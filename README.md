@@ -1,4 +1,4 @@
-# Porjeto feito junto com Digital Innovation One 
+# Projeto feito junto com Digital Innovation One 
 cadastro de séries em .NET
 
 
